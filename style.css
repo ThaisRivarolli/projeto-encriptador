@@ -6,7 +6,6 @@
 }
 
 header {
-
     background: linear-gradient(#FFFFFF 2%,#BBBBBB) ;
     padding: 1em 0;
     margin: 0 auto;     
@@ -35,13 +34,11 @@ nav a {
     font-size: 18px;
     font-family: 'Barlow Semi Condensed', sem serifa;    
     text-decoration: none;
-    
 }
 
 .banner{
     width: 100%;
-    display:flex ;
-    
+    display:flex ; 
 }
 
 .descricao{
@@ -92,7 +89,6 @@ main {
 .boneco {    
     background-repeat: no-repeat;    
     position: relative;
-
 }
 
 .mensagem:focus {
@@ -102,8 +98,7 @@ main {
 .botoes {
     display: flex;
     margin-top: 28px;
-    margin-left: 80px;
-    
+    margin-left: 80px;    
 }
 
 .btn-desencriptar {
@@ -115,7 +110,6 @@ main {
     height: 37px;
     margin-left: 40px;
     width: 200px;
-
 }
 
 .btn-encriptar {
@@ -127,7 +121,6 @@ main {
     height: 37px;
     width: 200px;
     margin-left: 10px;
-
 }
 
 #btn-copiar {
@@ -140,7 +133,6 @@ main {
     margin-left: 128px;
     width: 168px;
     position: relative;
-
 }
 
 .informacao {
